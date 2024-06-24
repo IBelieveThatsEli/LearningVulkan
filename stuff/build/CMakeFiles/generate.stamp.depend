@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Users/elipe/Downloads/cmake-3.29.0-rc4-windows-x86_64/cmake-3.29.0-rc4-windows-x86_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Users/elipe/OneDrive/Documents/c++/stuff/CMakeLists.txt
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/3.29.0-rc4/CMakeCCompiler.cmake
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/3.29.0-rc4/CMakeCXXCompiler.cmake
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/3.29.0-rc4/CMakeRCCompiler.cmake
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/3.29.0-rc4/CMakeSystem.cmake

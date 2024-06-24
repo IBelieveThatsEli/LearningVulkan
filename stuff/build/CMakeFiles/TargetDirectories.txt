@@ -1,0 +1,3 @@
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/stuff.dir
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/elipe/OneDrive/Documents/c++/stuff/build/CMakeFiles/ZERO_CHECK.dir

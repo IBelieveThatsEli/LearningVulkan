@@ -1,0 +1,10 @@
+^C:\USERS\ELIPE\ONEDRIVE\DOCUMENTS\C++\STUFF\BUILD\CMAKEFILES\68F7878C239AFA3BE29FCE2271190BB8\GENERATE.STAMP.RULE
+setlocal
+C:\Users\elipe\Downloads\cmake-3.29.0-rc4-windows-x86_64\cmake-3.29.0-rc4-windows-x86_64\bin\cmake.exe -SC:/Users/elipe/OneDrive/Documents/c++/stuff -BC:/Users/elipe/OneDrive/Documents/c++/stuff/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/elipe/OneDrive/Documents/c++/stuff/build/stuff.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
